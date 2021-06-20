@@ -1,4 +1,6 @@
-2021-06-20 00:00:00,0,0
-<built-in method date of datetime.datetime object at 0x0000022D5B232F30>,0,0
-<built-in method date of datetime.datetime object at 0x000002D8D12D2F30>,0,0
+2021-06-20,0,0
+2021-06-21,0,0
 2021-06-22,0,0
+2021-06-24,1,0
+2021-06-27,1,0
+2021-06-28,0,0
